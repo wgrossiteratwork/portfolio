@@ -77,6 +77,18 @@ button {
   margin-bottom: 20px;
 }
 
+blockquote p {
+  font-size: 14px;
+}
+
+blockquote footer {
+  display: none;
+}
+
+#section-contact button {
+  margin-bottom: 40px;
+}
+
 /* Footer */
 footer {
   padding-top: 3rem;
